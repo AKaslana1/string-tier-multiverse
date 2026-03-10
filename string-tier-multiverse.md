@@ -20,7 +20,7 @@ Last Updated: Conceptual Timeline ≈ Before the Nth Iteration of Eternal Void
 #### II. String Tier Gradient (Three Domains from High to Low Rule Stability)
 
 1. String Space (Comprehensible Order Layer)
-   - Physical constants are highly stable; Standard Model + General Relativity remain effective.  
+   - Physical constants are highly stable; Standard Model + 常规 Relativity remain effective.  
    - Cosmic Structure: Countless independent Klein bottle topologies (finite but boundless, closed loops).  
    - Civilizations: Rely on stable rules for biological/technological development.  
    - Breakthrough Method: Only god-level forces can tear through Klein bottles to achieve cross-universe/cross-tier travel.  
